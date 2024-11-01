@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Gabriel Santos
+- 🎓 Computer Science student
+- 👀 Interested in development, information security, cloud computing, and DevOps.
+- 🌱 Improving skills in C# and AWS.
+- 💞️ Open to collaboration on projects.
+- 📫 Contact me via email: pereiragasantoss@gmail.com.
